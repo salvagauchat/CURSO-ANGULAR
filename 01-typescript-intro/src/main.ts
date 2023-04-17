@@ -6,7 +6,10 @@ import './style.css'
 // import './topics/05-basic-destruturing';
 // import './topics/06-funtion-destruturing';
 // import './topics/07-import-export';
-import './topics/08-clase';
+// import './topics/08-clase';
+// import './topics/09-generics';
+// import './topics/10-decorators';
+import './topics/11-optional-chaining';
 
 
 
